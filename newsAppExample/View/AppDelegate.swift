@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  newsAppExample
-//
-//  Created by AyzaSoft on 13.03.2023.
-//
+
 
 import UIKit
 
